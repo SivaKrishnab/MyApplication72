@@ -17,7 +17,7 @@ public class PathTest {
                 {5, 9, 3, 9, 9, 5},
                 {8, 4, 1, 3, 2, 6},
                 {3, 7 ,2 ,8 ,6 ,4}};
-        
+
         PathResult pathSumResult = Path.navigate(grid);
 
         //assert
