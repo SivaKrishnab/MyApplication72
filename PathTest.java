@@ -100,7 +100,7 @@ public class PathTest {
                 {3,-2,6,10},
                 {6,-1,-2,10}};
 
-        //act
+        
         PathResult pathSumResult = Path.navigate(grid);
 
         //assert
